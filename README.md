@@ -1,4 +1,4 @@
-Hi, I’m Rashid Shahariar Shocho<br><br>I’m a Computer Science and Engineer person focused on AI, Machine Learning,<br>and backend development. I enjoy building systems where models actually run<br>in production, not just notebooks.
+Hi, I’m MD Rashid Shahariar Shocho<br>I’m focused on AI, Machine Learning,<br>and backend development. I enjoy building systems where models actually run<br>in production, not just notebooks.
 
 
 ## 🌐 Socials:
