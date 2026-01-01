@@ -1,5 +1,4 @@
-# 💫 About Me:
-------------------------------------------------------------<br>Hi, I’m Rashid Shahariar Shocho<br><br>I’m a Computer Science student and engineer focused on AI, Machine Learning,<br>and backend development. I enjoy building systems where models actually run<br>in production, not just notebooks.<br>------------------------------------------------------------<br><br>What I’m focused on<br><br>- Building AI-powered applications using Python, Flask, and FastAPI<br>- Applying machine learning to real datasets with proper evaluation<br>- Exploring LLMs, agents, and modern AI application design<br>- Solving Kaggle problems with the long-term goal of reaching Grandmaster level<br><br>------------------------------------------------------------<br><br>Technical strengths<br><br>Languages<br>- Python<br>- Java<br><br>Machine Learning & AI<br>- Classical ML: regression, classification, SVM<br>- Feature engineering, cross-validation, ROC/AUC<br>- NLP basics and transformer-based models<br>- Model experimentation and performance analysis<br><br>Backend & Web<br>- Flask, FastAPI<br>- REST API design<br>- HTML, CSS, JavaScript<br>- React<br><br>Databases & Data<br>- MySQL, MariaDB, PostgreSQL<br>- SQL querying and analysis<br>- Exploratory Data Analysis (EDA)<br>- Dashboards with Excel and Google Sheets<br><br>------------------------------------------------------------<br><br>Engineering mindset<br><br>- Models are useless unless they ship<br>- Clean data beats complex algorithms<br>- Fundamentals scale better than shortcuts<br>- Real understanding comes from building and breaking systems<br><br>------------------------------------------------------------<br><br>Currently learning<br><br>- LLM-based applications and AI agents<br>- Production-grade backend architecture<br>- Research paper reading and applied experimentation<br><br>------------------------------------------------------------<br><br>Looking for<br><br>- Open-source collaboration<br>- Hard problems that force real growth<br><br><br>
+Hi, I’m Rashid Shahariar Shocho<br><br>I’m a Computer Science student and engineer focused on AI, Machine Learning,<br>and backend development. I enjoy building systems where models actually run<br>in production, not just notebooks.
 
 
 ## 🌐 Socials:
@@ -15,7 +14,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rashid-Shocho&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ The inspiration
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
