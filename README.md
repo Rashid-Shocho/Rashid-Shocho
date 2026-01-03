@@ -1,4 +1,4 @@
-Hi, I’m MD Rashid Shahariar Shocho<br>I’m focused on AI, Machine Learning, and backend development. I enjoy building systems where models actually run<br>in production, not just notebooks.
+Hi, I’m MD Rashid Shahariar Shocho<br>I’m focused on AI, Machine Learning, and backend development. I enjoy building systems where models actually run in production, not just notebooks.
 
 
 ## 🌐 Socials:
@@ -11,8 +11,7 @@ Hi, I’m MD Rashid Shahariar Shocho<br>I’m focused on AI, Machine Learning, a
 ![](https://nirzak-streak-stats.vercel.app/?user=Rashid-Shocho&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashid-Shocho&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rashid-Shocho&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 
 ### ✍️ The inspiration
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
